@@ -1,0 +1,31 @@
+1) Studying:
+Physics Homework, Complete chapter 5 problems, 5, 0, 1735384572
+Math Homework, Complete exercises 1-10, 3, 0, 1735388172
+Physics Homework, Complete chapter 5 problems, 5, 0, 1735381996
+Math Homework, Complete exercises 1-10, 3, 0, 1735385596
+Physics Homework, Complete chapter 5 problems, 5, 0, 1735381513
+Math Homework, Complete exercises 1-10, 3, 0, 1735385113
+Math Homework, Complete exercises 1-10, 3, 0, 1735385289
+Physics Homework, Complete chapter 5 problems, 5, 0, 1735381689
+Math Homework, Complete exercises 1-10, 3, 0, 1735385606
+Physics Homework, Complete chapter 5 problems, 5, 0, 1735382006
+
+2) Kitchen:
+Grocery Shopping, Buy vegetables and fruits, 4, 0, 1735395372
+Clean Kitchen, Wash dishes, 2, 0, 1735395372
+Grocery Shopping, Buy vegetables and fruits, 4, 0, 1735392796
+Clean Kitchen, Wash dishes, 2, 0, 1735392796
+Grocery Shopping, Buy vegetables and fruits, 4, 0, 1735392313
+Clean Kitchen, Wash dishes, 2, 0, 1735392313
+Clean Kitchen, Wash dishes, 2, 0, 1735392489
+Grocery Shopping, Buy vegetables and fruits, 4, 0, 1735392489
+Clean Kitchen, Wash dishes, 2, 0, 1735392806
+Grocery Shopping, Buy vegetables and fruits, 4, 0, 1735392806
+
+4) Fitness:
+Workout, Run 5km, 1, 0, 1735650972
+Workout, Run 5km, 1, 0, 1735648396
+Workout, Run 5km, 1, 0, 1735647913
+Workout, Run 5km, 1, 0, 1735648089
+Workout, Run 5km, 1, 0, 1735648406
+
